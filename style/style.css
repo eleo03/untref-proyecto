@@ -1,0 +1,54 @@
+h1{
+    font-family: "Ailerons";
+    font-size: 1.5cm;
+}
+body{
+    color: antiquewhite;
+    background-color: #282a36;
+}
+h2{
+    color: greenyellow;
+}
+
+.volver{
+    background-color: aquamarine;
+    border: 2px aquamarine;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+}
+
+.noticias{
+    border-style: double;
+    text-align: center;
+    margin: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.titu{
+    text-align: center;
+}
+
+.comida{
+    text-align: center;
+    border-style: dotted;
+    padding: 15px;
+    margin: 15px;
+}
+
+.videoali{
+    text-align: center;
+}
+
+.tiposs{
+    text-align: left;
+}
+
+.clasi1{
+    border-style: double;
+    margin: 15px;
+    padding: 15px;
+}
